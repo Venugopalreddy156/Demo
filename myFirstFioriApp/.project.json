@@ -1,0 +1,13 @@
+{
+  "generation": [
+    {
+      "templateId": "ui5template.basicSAPUI5ApplicationComponent",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Tue, 02 Oct 2018 01:43:56 GMT"
+    }
+  ],
+  "deploy": {
+    "destination": "NS4",
+    "name": "ZANUBHAV_TTBB"
+  }
+}
