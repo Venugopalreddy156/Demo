@@ -29,6 +29,7 @@
 				<ToolbarSpacer />
 				<Button text="Approve" type="Accept" press="onAccept"></Button>
 				<Button text="Reject"  type="Reject"></Button>
+				<Button text="Cancel"/>
 			</Toolbar>
 		</footer>
 	</Page>
