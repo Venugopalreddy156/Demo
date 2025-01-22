@@ -3,14 +3,14 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     
-      <Button id="one" text="Save" />
-      <Button id="two" text="Cancel" />
+      <Button id="one" text="Save" press="messagebox" />
+      <Button id="two" text="Cancel" press="messagebox" />
 
 <footer>
 <OverflowToolbar id="toolbar" >
 <ToolbarSpacer id="toolbar12"></ToolbarSpacer>
-     <Button id="one1" text="Upload" />
-      <Button id="two1" text="Download" />
+     <Button id="one1" text="Upload" press="messagebox" />
+      <Button id="two1" text="Download" press="messagebox" />
 </OverflowToolbar>
 
 </footer>
