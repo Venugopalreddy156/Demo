@@ -1,0 +1,20 @@
+<mvc:View controllerName="zhcp.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    
+      <Button id="one" text="Save" />
+      <Button id="two" text="Cancel" />
+
+<footer>
+<OverflowToolbar id="toolbar" >
+<ToolbarSpacer id="toolbar12"></ToolbarSpacer>
+     <Button id="one1" text="Upload" />
+      <Button id="two1" text="Download" />
+</OverflowToolbar>
+
+</footer>
+
+
+    </Page>
+</mvc:View>
